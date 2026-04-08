@@ -1,0 +1,21 @@
+{
+  "name": "t-app_backend",
+  "version": "1.0.0",
+  "description": "",
+  "license": "license",
+  "author": "Pun https://github.com/Punnoii",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^3.0.2",
+    "dotenv": "^17.2.0",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.16.3",
+    "mysql2": "^3.14.3",
+    "nodemon": "^3.1.10"
+  }
+}
