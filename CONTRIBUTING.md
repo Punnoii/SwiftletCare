@@ -19,7 +19,7 @@ This project is structured so another developer can continue the work with minim
 
 Examples:
 
-- `feature/patient-dashboard`
+- `feature/nest-management`
 - `fix/login-token-validation`
 - `docs/update-readme`
 
@@ -33,8 +33,8 @@ type(scope): short summary
 
 Examples:
 
-- `feat(frontend): add patient detail card`
-- `fix(backend): validate duplicate email on signup`
+- `feat(frontend): add nest detail screen`
+- `fix(backend): validate duplicate nest record`
 - `docs(repo): add contribution guide`
 
 Suggested commit types:
